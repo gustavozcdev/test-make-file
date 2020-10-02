@@ -54,8 +54,8 @@ artifacts:
     - test.txt
     # - location
     #name: makefile-test-bucket
-  discard-paths: no
-  base-directory: /.
+  #discard-paths: no
+  #base-directory: 
 #cache:
   #paths:
     # - paths
