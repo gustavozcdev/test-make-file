@@ -1,8 +1,6 @@
-all: hola ejemplo crear_archivo
+all: hola hola2
 hola:
 	@echo "Hola Mundo"
-ejemplo:
+hola2:
 	@echo "Planeta Tierra"
-crear_archivo:
-	@echo "crear un archivo llamado test.txt"
-	@touch hola-mundo.txt
+
